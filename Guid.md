@@ -1,0 +1,2 @@
+- `__init__.py`不需要导出example
+- example应该不会被输出
